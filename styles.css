@@ -1,0 +1,21 @@
+.card {
+    border: 5px solid white;
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 15px;
+}
+
+.box {
+    float: left;
+}
+
+.body {
+    height: 700px;
+    padding: 20px;
+    width: 750px;
+    margin: auto;
+    background-color:burlywood;
+    text-align: center;
+}
